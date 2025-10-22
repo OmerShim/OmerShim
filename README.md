@@ -28,7 +28,7 @@ Data collection and data labeling, training of a small language model for a book
 ---
 
 ## 🤝 Let’s Connect
-- 📧 **Email:** omershim97@gmail.com 
+- 📧 [Email](omershim97@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/omer-shimoni)
 
 ---
