@@ -31,10 +31,6 @@ Data collection and data labeling, training of a small language model for a book
 - 📧 [Email](omershim97@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/omer-shimoni)
 
----
-
-![Omer’s GitHub stats](https://github-readme-stats.vercel.app/api?username=OmerShimoni&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmerShimoni&layout=compact&theme=tokyonight)
 
 ---
 ⭐ *If you like clean code, interesting projects, or just curious minds — feel free to follow or drop me a message!*
