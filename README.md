@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=OmerShim&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://profile-counter.glitch.me/OmerShim/count.svg)
 <div align="center">
 
 # 👋 Hi, I’m Omer Shimoni
