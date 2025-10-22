@@ -40,5 +40,5 @@ Data collection and data labeling, training of a small language model for a book
 ⭐ *If you like clean code, interesting projects, or just curious minds — feel free to follow or drop me a message!*
 </div>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/OmerShim">
-  <img src="https://img.shields.io/github/followers/OmerShim?label=&style=flat&logo=&color=0&labelColor=0" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/OmerShim?label=&style=flat&logo=&color=0&labelColor='white" alt="GitHub followers" />
 </a>
