@@ -22,8 +22,8 @@ An object-oriented, extensible 2D fighting game built from scratch — featuring
 ### 🌐 ServiceMatch (Spring Boot + Thymeleaf + MySQL)
 A web platform connecting people who need help with those offering services — includes user registration, rating system, leaderboards, and AI-generated descriptions via Gemini API.
 
-### 🤖 NLP Final Project (Python)
-Automation pipeline for downloading, converting, and merging multimedia files — integrating NLP-driven content parsing and task automation.
+### 🤖 NLP Project (Python)
+Data collection and data labeling, training of a small language model for a book recommendation system.
 
 ---
 
