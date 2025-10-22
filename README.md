@@ -30,7 +30,7 @@ A web platform connecting people who need help with those offering services — 
 Data collection and data labeling, training of a small language model for a book recommendation system.
 
 ---
-
+<div align="center">
 ## 🤝 Let’s Connect
 - 📧 [Email](omershim97@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/omer-shimoni)
@@ -38,3 +38,4 @@ Data collection and data labeling, training of a small language model for a book
 
 ---
 ⭐ *If you like clean code, interesting projects, or just curious minds — feel free to follow or drop me a message!*
+</div>
