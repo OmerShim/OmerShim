@@ -4,7 +4,7 @@
 
 Welcome to my corner of GitHub ❤️  
 I’m a **Computer Science student at Hadassah College (Jerusalem)**, currently in my fourth year.<br>
-Passionate about **software development, NLP, algorithms, and game programming**.
+Passionate about **software development, NLP, algorithms, and game programming** with a strong focus on backend development — especially **DevOps and machine learning**.
 
 </div>
 
